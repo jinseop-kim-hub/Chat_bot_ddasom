@@ -11,13 +11,13 @@
 
 
 ## 🛠️ 기술 스택
-- Python 3.x
+- Python 3.12 이상
 - streamlit
 - OpenAI API
-- STT ( Whisper )
+- STT (Whisper)
 - TTS (Elevenlabs API) 
 - dotenv (환경 변수 관리)
-- Langchin
+- Langchain
 
 ## 🚀 설치 방법
 1. Python이 설치되어 있는지 확인하세요.
@@ -67,4 +67,4 @@ streamlit 서버를 실행하여 챗봇을 동작 시킵니다.
 이 프로젝트는 MIT 라이선스를 따릅니다. 자유롭게 수정 및 배포가 가능합니다.
 
 ## 📄 도메인
-http://ddasom.store/
+https://ddasom.store/
