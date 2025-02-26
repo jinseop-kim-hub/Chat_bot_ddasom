@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+elevenlabs
+langchain-community
+supabase
