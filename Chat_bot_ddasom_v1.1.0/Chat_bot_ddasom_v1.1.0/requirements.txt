@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+elevenlabs
+langchain-community
+langchain_openai
+supabase
+wordcloud
+matplotlib
+pandas
+st_tailwind
